@@ -31,9 +31,11 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 The winner of the election was:
 - Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
 
-###Results printed to the terminal
+### Results printed to the terminal
+![this is an image](https://github.com/eneubauer2022/Election_Analysis/blob/main/results_in_terminal.png)
 
 ### Results printed to a txt.file
+![this is an image](https://github.com/eneubauer2022/Election_Analysis/blob/main/results_in_txtfile.png)
 
 ## Election-Audit Summary
 The election committee could use this script for any election, with some simple adaptations. For instance, if the election committee wanted to breakdown the results by county, rather than state, to see how the candidates performed in each individual county. This could also be done on a national level, where the county is replaced by state and the overall winner could be winner of a Presiential election (assuming it was based off popular vote). 
